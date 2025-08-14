@@ -1,0 +1,114 @@
+:root {
+  --bg: #0b1320;
+  --card: #ffffff;
+  --ink: #0b1320;
+  --muted: #5b667a;
+  --brand: #004a9b;
+  --radius: 16px;
+  --shadow: 0 6px 24px rgba(0,0,0,0.08);
+  --container: 1100px;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: "Outfit", system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  color: var(--ink);
+  background: #f5f7fb;
+  line-height: 1.5;
+}
+
+.container { width: 100%; max-width: var(--container); margin: 0 auto; padding: 0 16px; }
+.site-header {
+  background: linear-gradient(180deg, #0b1320 0%, #0b1320 60%, #0b1320 60%, transparent 60%);
+  color: #fff;
+  padding: 36px 0 24px;
+}
+
+.site-header h1 { margin: 0 0 6px; font-weight: 600; letter-spacing: 0.2px; text-align: center; }
+
+.subtitle { margin: 1; opacity: 0.85; text-align: center;}
+
+.controls { margin-top: 16px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+
+#search {
+  padding: 12px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.2);
+  background: #fff;
+  color: var(--ink);
+  min-width: 260px;
+  box-shadow: var(--shadow);
+}
+.count { font-size: 0.95rem; color: #e7eefc; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 20px 0 40px;
+}
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  min-height: 180px;
+  border: 1px solid #eef2f8;
+}
+.card h2 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+  line-height: 1.25;
+}
+.card p {
+  margin: 0 0 14px;
+  color: var(--muted);
+}
+.card a {
+  margin-top: auto;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #eef4ff;
+  color: var(--brand);
+  font-weight: 600;
+  border: 1px solid #d7e6ff;
+}
+.card a[aria-disabled="true"] {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.status {
+  background: #fff8e1;
+  border: 1px solid #ffe0b2;
+  color: #8a6d1d;
+  padding: 12px 14px;
+  border-radius: 10px;
+  margin: 20px 0;
+  box-shadow: var(--shadow);
+}
+
+.site-footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  color: #333;
+  font-family: Arial, sans-serif; 
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}

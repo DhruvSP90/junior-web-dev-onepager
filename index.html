@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Confederation College — Programs</title>
+  <meta name="description" content="One-page static site listing programs from program-data.json" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Confederation College Programs</h1>
+      <p class="subtitle">Explore our programs and find the right fit for you.</p>
+        <label for="search" class="sr-only">Search programs</label>
+        <input id="search" type="search" placeholder="Search by name…" autocomplete="off" />
+        <span id="count" aria-live="polite" class="count"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" id="app" aria-busy="true">
+    <div class="status" id="status">Loading programs…</div>
+    <div id="grid" class="grid" hidden></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>
+        &copy; <span id="currentYear"></span> Confederation College. All rights reserved.
+      </small>
+      <script>
+        document.getElementById("currentYear").textContent = new Date().getFullYear();
+      </script>
+    </div>
+  </footer>
+  
+  <script type="module" src="script.js"></script>
+</body>
+</html>

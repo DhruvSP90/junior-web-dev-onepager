@@ -1,0 +1,434 @@
+[
+  {
+    "_id": "9umEYfUdln1qqtidiAwlKU",
+    "missionStatement": "In the Pre-Health Sciences – Pathway to Certificates & Diplomas program, you will strengthen your science and communication skills through hands-on labs and coursework that support your next step in health education.",
+    "name": "Pre-Health Sciences - Pathway to Certificates and Diplomas",
+    "slug": {
+      "current": "pre-health-sciences-pathway-certificates-and-diplomas"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlMR",
+    "missionStatement": "In the Early Childhood Education program, you will learn how to support children's development by creating play-based learning environments through hands-on classroom work and field placements.",
+    "name": "Early Childhood Education",
+    "slug": {
+      "current": "early-childhood-education"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlOO",
+    "missionStatement": "In the General Arts and Science – Diploma program, you will learn how to apply critical thinking and communication skills through broad elective-based coursework that supports future study or work.",
+    "name": "General Arts and Science - Diploma",
+    "slug": {
+      "current": "general-arts-and-science-diploma"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlSI",
+    "missionStatement": "In the Social Service Worker program, you will learn how to help people navigate challenges by practising real-world support skills in supervised community placements.",
+    "name": "Social Service Worker",
+    "slug": {
+      "current": "social-service-worker"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlUF",
+    "missionStatement": "In the Recreation Therapy program, you will learn how to plan, implement and evaluate therapeutic leisure services through hands‑on field placements and classwork to help individuals with diverse needs improve well‑being and social connection.",
+    "name": "Recreation Therapy",
+    "slug": {
+      "current": "recreation-therapy"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlWC",
+    "missionStatement": "In the Police Foundations (Investigations & Community Security) program, you will learn how to conduct investigations and promote safety through hands‑on scenario training and field placements so you’re ready to support public security in your community.",
+    "name": "Police Foundations: Investigations and Community Security",
+    "slug": {
+      "current": "police-foundations-investigations-and-community-security"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlY9",
+    "missionStatement": "In the Film Production program, you will learn how to direct and complete professional-quality films through hands-on projects using industry-standard cameras, editing suites, and studio spaces.",
+    "name": "Film Production",
+    "slug": {
+      "current": "film-production"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwla6",
+    "missionStatement": "In the Developmental Services Worker program, you will learn how to support individuals with developmental disabilities through two supervised field placements.",
+    "name": "Developmental Services Worker",
+    "slug": {
+      "current": "developmental-services-worker"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlc3",
+    "missionStatement": "In the General Arts and Science – Certificate program, you will learn how to think critically and communicate clearly through diverse classroom courses that build academic and career-ready skills.",
+    "name": "General Arts and Science - Certificate",
+    "slug": {
+      "current": "general-arts-and-science-certificate"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwle0",
+    "missionStatement": "In the Pre-Health Sciences program, you will learn how to build a strong foundation in biology, chemistry, and math through labs and hands-on problem-solving to prepare for advanced health studies.",
+    "name": "Pre-Health Sciences - Pathway to Advanced Diplomas & Degrees",
+    "slug": {
+      "current": "pre-health-sciences-pathway-advanced-diplomas-and-degrees"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwljr",
+    "missionStatement": "In the Interactive Media Development program, you will learn how to design and build engaging digital experiences through hands‑on studio projects and a real work placement that prepares you for creative collaboration.",
+    "name": "Interactive Media Development",
+    "slug": {
+      "current": "interactive-media-development"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwllo",
+    "missionStatement": "n the Community Integration Through Co-operative Education program, you will learn how to build job and life skills through personalized support and hands-on work placements that boost your confidence.",
+    "name": "Community Integration Through Co-operative Education",
+    "slug": {
+      "current": "community-integration-through-co-operative-education"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlnl",
+    "missionStatement": "In the Computer Programming program you will learn how to build full stack software solutions through hands-on projects using multiple programming languages and development tools.",
+    "name": "Computer Programming",
+    "slug": {
+      "current": "computer-programming"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlpi",
+    "missionStatement": "In the Business – Accounting program, you will learn how to record and analyze financial data through hands-on accounting exercises and real-world case studies.",
+    "name": "Business - Accounting",
+    "slug": {
+      "current": "business-accounting"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlrf",
+    "missionStatement": "In the Business program, you will learn how to support organizational success using real-world case studies, team projects, and applied computer skills.",
+    "name": "Business",
+    "slug": {
+      "current": "business"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwltc",
+    "missionStatement": "In the Business – Marketing program, you will learn how to plan and deliver real campaigns by working directly with clients through field work and fundraising events.",
+    "name": "Business - Marketing",
+    "slug": {
+      "current": "business-marketing"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlvZ",
+    "missionStatement": "In the Business Administration – Accounting program, you will learn how to apply advanced accounting skills through case studies and a full-semester work placement to support financial decision-making.",
+    "name": "Business Administration - Accounting",
+    "slug": {
+      "current": "business-administration-accounting"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlxW",
+    "missionStatement": "In the Business Fundamentals program, you will learn how to support business operations through hands-on projects in accounting, marketing, and communications to explore your best-fit role.",
+    "name": "Business Fundamentals",
+    "slug": {
+      "current": "business-fundamentals"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwlzT",
+    "missionStatement": "In the Health Informatics program, you will learn how to turn health data into informed decisions through hands-on projects and applied analytics tools.",
+    "name": "Health Informatics",
+    "slug": {
+      "current": "health-informatics"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwm1Q",
+    "missionStatement": "In the Digital Marketing and Marketing Analytics program, you will learn how to plan and measure marketing campaigns through real-world capstone projects and hands-on digital tools training.",
+    "name": "Digital Marketing and Marketing Analytics",
+    "slug": {
+      "current": "digital-marketing-and-marketing-analytics"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwm3N",
+    "missionStatement": "In the Health Administration and Leadership program, you'll develop the skills to manage healthcare teams and operations through hands-on projects and real-world case studies.",
+    "name": "Health Administration and Leadership",
+    "slug": {
+      "current": "health-administration-and-leadership"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwm5K",
+    "missionStatement": "In the Aviation Technician – Aircraft Maintenance program, you will learn how to inspect and repair aircraft systems through intensive lab work and a co-op placement, preparing you to keep planes safe and airworthy.",
+    "name": "Aviation Technician - Aircraft Maintenance",
+    "slug": {
+      "current": "aviation-technician-aircraft-maintenance"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwm7H",
+    "missionStatement": "In the Aviation — Flight Management program, you will learn how to operate aircraft safely and independently through hands-on flight training and advanced simulator practice.",
+    "name": "Aviation - Flight Management",
+    "slug": {
+      "current": "aviation-flight-management"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwm9E",
+    "missionStatement": "In the Civil Engineering Technician program, you will learn how to support construction and infrastructure projects through hands-on labs, surveying, and a field placement in second year.",
+    "name": "Civil Engineering Technician",
+    "slug": {
+      "current": "civil-engineering-technician"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmBB",
+    "missionStatement": "In the Embedded Systems program, you will learn how to design and troubleshoot electronic devices through applied lab work and team-based product development projects.",
+    "name": "Embedded Systems",
+    "slug": {
+      "current": "embedded-systems"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmD8",
+    "missionStatement": "In the Engineering Business and Safety Management program, you will learn how to manage projects, operations, and workplace safety through real-world case studies and a 15-week industry placement.",
+    "name": "Engineering Business and Safety Management",
+    "slug": {
+      "current": "engineering-business-and-safety-management"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmF5",
+    "missionStatement": "In the Industrial Manufacturing Processes program, you will learn how to plan, design, build and test advanced manufacturing systems through hands-on applied shop labs and project-based courses that prepare you to confidently contribute across production stages.",
+    "name": "Industrial Manufacturing Processes",
+    "slug": {
+      "current": "industrial-manufacturing-processes"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmH2",
+    "missionStatement": "In the Information Communication Technology (ICT) Solutions for Business program, you will learn how to build and manage business-ready tech solutions through hands-on projects and real-world simulations.",
+    "name": "ICT Solutions for Business",
+    "slug": {
+      "current": "information-communication-technology-ict-solutions-business"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmIz",
+    "missionStatement": "In the Pre‑Technology program, you will learn how to strengthen your essential math, science and technical skills through hands‑on labs and projects that prepare you for further trades, aviation or technology training.",
+    "name": "Pre-Technology",
+    "slug": {
+      "current": "pre-technology"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmKw",
+    "missionStatement": "In the Pre‑Technology – Trades program, you will learn how to build foundational trades skills through hands‑on tool and equipment labs, applied math, computers and science to help you confidently prepare for trades and apprenticeship pathways.",
+    "name": "Pre-Technology - Trades",
+    "slug": {
+      "current": "pre-technology-trades"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmMt",
+    "missionStatement": "In the Motive Power Techniques – Heavy Equipment program, you will learn how to service and repair heavy machinery using hands‑on labs and a two‑week field placement to ensure you’re confident working in real repair shops.",
+    "name": "Motive Power Techniques - Heavy Equipment",
+    "slug": {
+      "current": "motive-power-techniques-heavy-equipment"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmOq",
+    "missionStatement": "In the Welding Techniques program, you will learn how to master multiple welding processes using state‑of‑the‑art equipment in shop training, developing precision and confidence to pursue hands‑on metal fabrication roles.",
+    "name": "Welding Techniques",
+    "slug": {
+      "current": "welding-techniques"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmQn",
+    "missionStatement": "In the Mechanical Engineering Technician program, you will learn how to design, assemble and troubleshoot mechanical systems through hands‑on labs and an optional co‑op placement so you can confidently support industrial operations.",
+    "name": "Mechanical Engineering Technician",
+    "slug": {
+      "current": "mechanical-engineering-technician"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmSk",
+    "missionStatement": "In the Carpentry and Renovation Techniques program, you will learn how to build and repair structures through hands-on shop work and real-world construction projects.",
+    "name": "Carpentry and Renovation Techniques",
+    "slug": {
+      "current": "carpentry-and-renovation-techniques"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmUh",
+    "missionStatement": "In the Motive Power Techniques – Automotive program, you will learn how to service vehicle systems through hands-on shop work that builds real-world diagnostic and repair skills.",
+    "name": "Motive Power Techniques - Automotive",
+    "slug": {
+      "current": "motive-power-techniques-automotive"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmWe",
+    "missionStatement": "In the Environmental Technician – Water Resource Management program, you will learn how to assess and protect ecosystems through hands-on fieldwork in forests, waterways, and wetlands.",
+    "name": "Environmental Technician - Water Resource Management",
+    "slug": {
+      "current": "environmental-technician-water-resource-management"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmYb",
+    "missionStatement": "In the Forestry Technician: Ecosystem Management program, you will learn how to manage forest ecosystems through hands-on field work and co-op placements that build real-world skills.",
+    "name": "Forestry Technician: Ecosystem Management",
+    "slug": {
+      "current": "forestry-technician-ecosystem-management"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmaY",
+    "missionStatement": "In the Mechanical Techniques program, you will learn how to operate basic machining, welding and design tools through hands‑on labs and projects so you can explore trade skills and find what fits you best.",
+    "name": "Mechanical Techniques",
+    "slug": {
+      "current": "mechanical-techniques"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmcV",
+    "missionStatement": "In the Electrical Engineering Technology program, you will learn how to design and maintain advanced electrical systems through hands-on lab work using real-world control and automation equipment.",
+    "name": "Electrical Engineering Technology",
+    "slug": {
+      "current": "electrical-engineering-technology"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmeS",
+    "missionStatement": "In the Mechanical Engineering Technology program, you will learn how to design, build and maintain mechanical systems through hands-on labs and real-world co-op experience.",
+    "name": "Mechanical Engineering Technology",
+    "slug": {
+      "current": "mechanical-engineering-technology"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmgP",
+    "missionStatement": "In the Indigenous Community Advocacy: Naadaamaagewin program, you will learn how to lead community-driven change through land-based learning and hands-on advocacy projects rooted in Indigenous knowledge.",
+    "name": "Indigenous Community Advocacy: Naadaamaagewin",
+    "slug": {
+      "current": "indigenous-community-advocacy-naadaamaagewin"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmiM",
+    "missionStatement": "In the Medical Radiation Technology program, you will learn how to operate advanced imaging equipment and manage patient care through hands‑on labs and three clinical rotations to support diagnostic imaging preparation.",
+    "name": "Medical Radiation Technology",
+    "slug": {
+      "current": "medical-radiation-technology"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmkJ",
+    "missionStatement": "In the Medical Laboratory Assistant program, you will learn how to collect and process patient samples through hands‑on labs and a clinical placement, preparing you to support diagnostic testing and patient care preparation.",
+    "name": "Medical Laboratory Assistant",
+    "slug": {
+      "current": "medical-laboratory-assistant"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmmG",
+    "missionStatement": "In the Practical Nursing program, you will learn how to provide safe, compassionate care through clinical placements that build real-world skills for diverse healthcare settings.",
+    "name": "Practical Nursing",
+    "slug": {
+      "current": "practical-nursing"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmoD",
+    "missionStatement": "In the Personal Support Worker program, you will learn how to deliver compassionate daily care through hands‑on lab practice and clinical placements so you’re ready to support individuals across diverse healthcare settings.",
+    "name": "Personal Support Worker",
+    "slug": {
+      "current": "personal-support-worker"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmqA",
+    "missionStatement": "In the Dental Hygiene program, you will learn how to assess and manage oral health through supervised clinical placements that prepare you to support overall wellness.",
+    "name": "Dental Hygiene",
+    "slug": {
+      "current": "dental-hygiene"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwms7",
+    "missionStatement": "In the Pharmacy Technician program, you will learn how to prepare and dispense medications through hands‑on lab training and clinical placements so you’re ready to support patient care in diverse pharmacy settings.",
+    "name": "Pharmacy Technician",
+    "slug": {
+      "current": "pharmacy-technician"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmu4",
+    "missionStatement": "In the Honours Bachelor of Science in Nursing program, you will learn how to provide safe, holistic care through clinical placements and immersive simulation labs",
+    "name": "Honours Bachelor of Science in Nursing (BScN)",
+    "slug": {
+      "current": "honours-bachelor-science-nursing-bscn"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmw1",
+    "missionStatement": "In the Onajigawin Indigenous Services program, you will learn how to support Indigenous children, families and communities through culturally‑safe field placements and decolonized coursework, preparing you to walk with others as a helper.",
+    "name": "Onajigawin Indigenous Services",
+    "slug": {
+      "current": "onajigawin-indigenous-services"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwmzv",
+    "missionStatement": "In the Advanced Care Paramedic program, you will learn how to deliver emergency medical care through intensive hands-on lab simulations and clinical placements.",
+    "name": "Advanced Care Paramedic",
+    "slug": {
+      "current": "advanced-care-paramedic"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwn1s",
+    "missionStatement": "In the Paramedic program, you will learn how to assess and manage patients in emergency settings through simulation training and real-world field placements, preparing you to provide safe, effective care under pressure.",
+    "name": "Paramedic",
+    "slug": {
+      "current": "paramedic"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwn3p",
+    "missionStatement": "In the College Access program, you will learn how to build foundational academic and personal skills through supportive coursework that prepares you for future college success.",
+    "name": "College Access",
+    "slug": {
+      "current": "college-access"
+    }
+  },
+  {
+    "_id": "9umEYfUdln1qqtidiAwn5m",
+    "missionStatement": null,
+    "name": "Fitness and Health Promotion",
+    "slug": {
+      "current": "fitness-and-health-promotion"
+    }
+  },
+  {
+    "_id": "f2f0ac7d-5625-425d-b1a7-04b6e532c357",
+    "missionStatement": "In the Management Studies program, you will learn how to lead organizational planning, communications and team dynamics through self‑paced online courses that prepare you for real-world management roles based on modern management theory and practice.",
+    "name": "Management Studies",
+    "slug": {
+      "current": "management-studies"
+    }
+  }
+]
