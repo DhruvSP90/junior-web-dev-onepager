@@ -9,8 +9,8 @@ One-page static site listing programs that loads 'program-data.json' at runtime 
 
 ## Live Demo & Repo
 
-* **Live site:** *<add your GitHub Pages URL here>*
-* **Repository:** *<add your public GitHub repo URL here>*
+* **Live site:** [View Live Site](https://dhruvsp90.github.io/junior-web-dev-onepager/)
+* **Repository:** [Repo](https://github.com/DhruvSP90/junior-web-dev-onepager)
 
 ## Stack
 
