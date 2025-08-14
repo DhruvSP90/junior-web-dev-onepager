@@ -68,9 +68,9 @@ Then open the local URL printed in the terminal (e.g., `http://localhost:3000`).
 
 ## Correctness & Edge Cases
 
-* **Missing `missionStatement`** → displays **“No description yet.”**
-* **Missing `slug.current`** → disables the link with `aria-disabled="true"`
-* **Missing `name`** → displays **“Untitled Program”**
+* **Missing `missionStatement`** -> displays **“No description yet.”**
+* **Missing `slug.current`** -> disables the link with `aria-disabled="true"`
+* **Missing `name`** -> displays **“Untitled Program”**
 * **Safe text rendering** (HTML-escaped)
 * **Alpha-sorted** by name
 * **Search** filters programs by name
@@ -90,7 +90,7 @@ Then open the local URL printed in the terminal (e.g., `http://localhost:3000`).
 ├── index.html
 ├── styles.css
 ├── script.js
-├── program-data.json      # Replace with the provided file
+├── program-data.json
 └── README.md
 ```
 
